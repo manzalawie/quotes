@@ -1,0 +1,10 @@
+h1 {
+  font-size: 6rem;
+}
+header {
+  overflow: hidden;
+  height: auto;
+}
+.content {
+  height: 50vh;
+}
